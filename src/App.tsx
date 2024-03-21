@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App({test, test2}: any) {
+  debugger
   return (
     <div className="App">
       <header className="App-header">
