@@ -4,6 +4,7 @@ import './App.css';
 
 function App({test, test2}: any) {
   debugger
+  console.log(test, test2)
   return (
     <div className="App">
       <header className="App-header">
