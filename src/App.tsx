@@ -2,7 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App({test, test2}: any) {
+  debugger
+  console.log(test, test2)
   return (
     <div className="App">
       <header className="App-header">
